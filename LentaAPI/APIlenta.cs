@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace LentaAPI
+namespace APIlenta
 {
     public class Product
     {
@@ -29,6 +29,7 @@ namespace LentaAPI
         public bool SaleProduct { get; set; }
         public bool OnStock { get; set; }
     }
+
 
     public class ProductCategories
     {
