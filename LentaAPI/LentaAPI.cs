@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace APIlenta
+namespace LentaAPI
 {
     public class Product
     {
